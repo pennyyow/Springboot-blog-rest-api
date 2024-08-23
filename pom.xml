@@ -14,7 +14,7 @@
 	<name>springboot-blog-rest-api</name>
 	<description>Spring boot blog application</description>
 	<properties>
-		<java.version>19</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
